@@ -1,4 +1,5 @@
 import React from "react";
+import list from"../../public/list.json";
 
 function Cards({ item }) {
   return (
