@@ -1,0 +1,8 @@
+@"
+**/node_modules/
+# optional:
+.env
+.dist/
+build/
+dist/
+"@ | Set-Content .gitignore
